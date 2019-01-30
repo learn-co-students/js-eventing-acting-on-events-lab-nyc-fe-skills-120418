@@ -10,7 +10,7 @@ Moving Things with JavaScript
 ## Problem Statement
 
 It's mesmerizing to think about how video games work. They will responded to your whims
-through a set of designated controls and interactions. It can pull you into its story by
+through a set of designated controls and intehttpserverractions. It can pull you into its story by
 giving you controls to interact within, and sometimes shape the virtual environments.
 
 _Programming means that you can create such a world for other people._ It'll take some 
